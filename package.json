@@ -1,0 +1,14 @@
+{
+  "name": "@components-studio/bdelanghe.vue3-lidt5p92-fork-lidt6vnc",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx cso-cli@latest serve NWbQ29v0SSs1Qs3BLA8W --open"
+  },
+  "dependencies": {
+    "vue": "next"
+  }
+}
